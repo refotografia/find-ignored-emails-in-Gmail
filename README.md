@@ -6,3 +6,5 @@ I started from some examples and went on to modify it until I was able add a lab
 I ran the script multiple times, changing dates manually each time.
 Whenever I tried more than one whole year, I would get an error, probably too many messages.
 Trying one year after another made it possible to find a total of 1146 emails and label them.
+
+More info: https://developers.google.com/gmail/api/quickstart/apps-script
